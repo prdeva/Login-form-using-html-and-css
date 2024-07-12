@@ -1,0 +1,68 @@
+.wel{
+    text-align: center;
+    margin-top: 15%;
+    color: rgb(14, 235, 255);
+    margin-left: 10%;
+   
+}
+.email{
+background-image: url(/assets/mail_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.png) no-repeat left;
+
+}
+.add_email{
+    background: url(/assets/mail_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.png)  no-repeat left ;
+    
+    padding-left: 20px;
+    background-size: 20px;
+    margin-left: 25%;
+    width: 70%;
+    margin-top: 10%;
+    border-radius: 10px;
+    border-color:  rgb(21, 187, 238);
+}
+.add_pass{
+    background: url(/assets/lock.png) no-repeat left;
+    padding-left: 20px;
+    background-size: 20px;
+    margin-left: 25%;
+    width: 70%;
+    margin-top: ;
+    border-radius: 10px;
+    border-color:  rgb(21, 187, 238);
+}
+img{
+    margin-top: 10%;
+    border-radius: 10px;
+}
+.p2{
+    margin-left: 70%;
+
+}
+h3{
+    background-color: rgb(21, 187, 238);
+    color: aliceblue;
+    border: 1px solid;
+    border-radius: 10px;
+    width: 20%;
+    text-align: center;
+    height: 40px;
+    margin-left: 45%;
+   
+}
+.col-6{
+    margin-left: 1;
+}
+.log{
+    margin-left: 10%;
+}
+.img3{
+    margin-left: 35%;
+
+}
+.p7{
+    
+    margin-left: 35%;
+}
+.container{
+   border-radius: 40px;
+}
